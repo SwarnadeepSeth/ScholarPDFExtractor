@@ -1,0 +1,31 @@
+{
+  "search_term": "carbohydrate diffusion constant",
+  "search_date": "2025-07-07T16:17:12.640349",
+  "total_papers": 4,
+  "papers": [
+    {
+      "pmcid": "PMC1568370",
+      "pmid": "6203733",
+      "title": "Drug-induced pulmonary fibrosis.",
+      "doi": "10.1289/ehp.845525"
+    },
+    {
+      "pmcid": "PMC6359444",
+      "pmid": "30583478",
+      "title": "Cyclodextrins in Parkinson’s Disease",
+      "doi": "10.3390/biom9010003"
+    },
+    {
+      "pmcid": "PMC4234437",
+      "pmid": "25319586",
+      "title": "Wanted: Scalable Tracers for Diffusion Measurements",
+      "doi": "10.1021/jp5059885"
+    },
+    {
+      "pmcid": "PMC5266627",
+      "pmid": "27960105",
+      "title": "Evaluation and comparison of diffusion MR methods for measuring apparent transcytolemmal water exchange rate constant",
+      "doi": "10.1016/j.jmr.2016.11.018"
+    }
+  ]
+}
