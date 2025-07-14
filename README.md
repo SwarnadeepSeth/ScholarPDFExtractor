@@ -22,7 +22,7 @@ A Python tool to search PubMed for scholarly articles, retrieve their details, a
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ScholarPDFExtractor.git
+   git clone https://github.com/SwarnadeepSeth/ScholarPDFExtractor.git
    cd ScholarPDFExtractor
    ```
 
@@ -95,4 +95,4 @@ Please ensure your code follows the existing style and includes appropriate test
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For questions or issues, please open an issue on GitHub or contact [your-email@example.com].
+For questions or issues, please open an issue on GitHub or contact [swdseth@gmail.com].
